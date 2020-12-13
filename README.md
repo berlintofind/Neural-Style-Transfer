@@ -39,6 +39,7 @@ image size requirement: wideth 800, height 600
 ## Result
 
 the generated picture of "louvre" and "claude-monet":
+
 ![image](https://github.com/berlintofind/Neural-Style-Transfer/blob/main/output/generated_image.jpg)
 
 ## Reference
