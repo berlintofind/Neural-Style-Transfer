@@ -34,6 +34,8 @@ To test the model on your own images，the use only need to upload his own image
 #### Note
 image size requirement: wideth 800, height 600
 
+**Keep safe and see you soon!**
+
 ## Result
 
 the generated picture of "louvre" and "claude-monet":
