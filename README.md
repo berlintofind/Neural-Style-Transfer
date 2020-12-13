@@ -39,7 +39,7 @@ image size requirement: wideth 800, height 600
 ## Result
 
 the generated picture of "louvre" and "claude-monet":
-![image](https://github.com/berlintofind/YOLO_v2_Objective_Detection/blob/master/out/test.jpg)
+![image](https://github.com/berlintofind/Neural-Style-Transfer/blob/main/output/generated_image.jpg)
 
 ## Reference
 1. [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015) A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
